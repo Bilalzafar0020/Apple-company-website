@@ -1,0 +1,389 @@
+*{
+    margin: 0pt;
+    padding: 0pt;
+}
+div{
+    width: 100%;
+}
+nav{
+    display: flex;
+    /* justify-content: space-between; */
+    background-color: #333333;
+    height: 30pt;
+    position: fixed;
+    width: 100%;
+}
+.fa-brands{
+    padding-top: 7pt;
+    padding-left: 120pt;
+    color: white;
+    font-size: 15pt;
+}
+ul li{
+    display: inline-block;
+    padding:8pt 15pt;
+    /* position: relative; */
+    bottom: 6pt;
+    right:0pt;
+}
+.fa-solid{
+    padding-top: 8pt;
+    padding-right: 20pt;
+    color: white;
+    font-size: 12pt;
+}
+.fa-solid{
+    color: white;
+    margin-left: 10pt;
+    font-size: 12pt;
+}
+a{
+    color: white;
+    font-weight: lighter;
+    text-decoration: none;
+}
+.ipad{
+    background-image: url(./hero_ipad__rh99l6c3yuyy_medium.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 520pt;
+    margin-bottom: 40pt;
+}
+.ipadlovable{
+    position: relative;
+    left: 550pt;
+    top: 150pt;
+    width: 250pt;
+}
+h1{
+    padding-left: 40pt;
+    font-size: 45pt;
+}
+h2{
+    font-size: 20pt;
+    font-weight: lighter;
+    margin-bottom: 15pt;
+}
+.le{
+    padding-left: 20pt;
+    font-size: 18pt;
+    color: darkcyan;
+}
+.b{
+    font-size: 18pt;
+    color: darkcyan;
+}
+.iphone{
+    background-image: url(./hero_iphone14__fjmsqstr1ceq_medium.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500pt;
+    width: 450pt;
+    left: 200pt;
+    margin-bottom: 10pt;
+    margin-left: 290pt;
+background-color: white;
+}
+.iphone14{
+    background-color: white;
+    height: 120pt;
+    padding-left: 100pt;
+    width: 300pt;
+}
+.ip{
+    padding-left: 50pt;
+}
+.big{
+    padding-left: 80pt;
+    font-size: 20pt;
+    margin-bottom: 10pt;
+}
+.lea{
+    color: darkcyan;
+   padding-left: 45pt;
+   font-size: 20pt;
+}
+.bu{
+    color: darkcyan;
+    font-size: 20pt;
+}
+.air{
+    background-image: url(./hero_airpods_holiday__gf6dktxz06eu_mediumshort.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 500pt;
+    margin-bottom: 20pt;
+}
+.im{
+    padding-left: 450pt;
+    padding-top: 80pt;
+}
+.pods{
+    padding-left: 400pt;
+    width: 200pt;
+}
+h5{
+    font-size: 45pt;
+}
+h6{
+    font-size: 23pt;
+    font-weight: lighter;
+    padding-left: 25pt;
+    margin-bottom: 15pt;
+}
+.shop{
+    color: darkcyan;
+    font-size: 20pt;
+    padding-left: 60pt;
+    font-weight:300;
+}
+.iphonepropic{
+    background-image: url(./promo_iphone14pro__4n4twj56fzmu_large.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 450pt;
+    height: 450pt;
+    margin-left: 20pt;
+    display: inline-block;
+    color: white;
+    float: left;
+    margin-bottom: 20pt;
+
+}
+.i{
+    padding-left: 100pt;
+    padding-top: 30pt;
+    font-size: 35pt;
+}
+.pro{
+    padding-left: 150pt;
+}
+.lear{
+    color: darkcyan;
+    padding-left: 100pt;
+    font-size: 15pt;
+}
+.buy{
+    font-size: 15pt;
+    color: darkcyan;
+
+}
+.applepic{
+    background-image: url(./promo_tv4k_avail__e17d9isb0vwy_medium\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    width: 500pt;
+    height: 450pt;
+    margin-left: 500pt;
+    margin-bottom: 20pt;
+}
+.img{
+    padding-left: 220pt;
+    padding-top: 35pt;
+    margin-bottom: 10pt;
+}
+.the{
+    font-size: 20pt;
+    /* padding-top: 80pt; */
+    padding-left: 170pt;
+    font-weight: lighter;
+}
+.cin{
+    padding-left: 150pt;
+
+}
+.learn{
+    color: darkcyan;
+    font-size: 15pt;
+    padding-left: 160pt;
+
+}
+.buyy{
+    color: darkcyan;
+    font-size: 15pt;
+}
+.ipadpro1{
+    background-image: url(./promo_ipadpro__ch217v9v7no2_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 430pt;
+    height: 450pt;
+    float: left;
+    margin-left: 20pt;
+    color: white;
+
+}
+.ipn{
+    font-size: 30pt;
+    padding-left: 150pt;
+    padding-top: 30pt;
+}
+.super{
+    font-size: 18pt;
+    padding-left: 130pt;
+}
+.learnn{
+    color: darkcyan;
+    padding-left: 120pt;
+    font-size: 15pt;
+}
+.buyyy{
+    color: darkcyan;
+    font-size: 15pt;
+
+}
+.watchpic{
+    background-image: url(./promo_apple_watch_series_8__ch7rexplmihe_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 500pt;
+    height: 450pt;
+    margin-left: 500pt;
+}
+.w{
+    font-size: 30pt;
+    padding-left: 170pt;
+    padding-top: 30pt;
+    letter-spacing: 3pt;
+}
+p{
+    font-size: 15pt;
+    padding-left: 200pt;
+    color: orangered;
+}
+.cin{
+    font-size: 20pt;
+}
+.learnnn{
+    color: darkcyan;
+    padding-left: 120pt;
+    font-size: 15pt;
+}
+.buyyyy{
+    color: darkcyan;
+    font-size: 15pt;
+}
+.watpic{
+    background-image: url(./promo_applefitnessplus_taylorswift__liig90blwtuu_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 450pt;
+    height: 450pt;
+    color: white;
+    margin-top: 20pt;
+    margin-left: 20pt;
+    float: left;
+}
+.wa{
+    font-size: 30pt;
+    padding-left: 180pt;
+    padding-top: 40pt;
+    letter-spacing: 3pt;
+}
+.se{
+    color: red;
+    font-size: 10pt;
+    padding-right: 0pt;
+}
+.health{
+    font-size: 20pt;
+    padding-left: 150pt;
+}
+.learnnnn{
+    color: darkcyan;
+    padding-left: 130pt;
+    font-size: 15pt;
+}
+.buyyyyy{
+    color: darkcyan;
+    font-size: 15pt;
+}
+.fitnes1{
+    background-image: url(./promo_apple_watch_ultra__gnsqulvdc4a6_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 500pt;
+    height: 450pt;
+    margin-left: 500pt;
+    margin-top: 20pt;
+    color: white;
+    margin-bottom: 40pt;
+}
+.fitnes{
+    padding-left: 180pt;
+    font-size: 30pt;
+    letter-spacing: 0.5pt;
+    padding-top: 35pt;
+}
+.new{
+    position: relative;
+    right: 50pt;
+    font-size: 18pt;
+    color: white;
+}
+.learnnnnn{
+    color: white;
+    padding-left: 130pt;
+    font-size: 15pt;
+}
+.buyyyyyy{
+    color: white;
+    font-size: 15pt;
+}
+.hp{
+    background-color: whitesmoke;
+}
+.ano{
+    margin-left: 80pt;
+    border-bottom: 1px solid black;
+    width: 800pt;
+    background-color: rgba(red, green, blue, alpha);   
+    color: #333333;
+}
+.rt{
+    font-size: 10pt;
+padding-top: 30pt;
+}
+.ft{
+    font-size: 10pt;
+
+}
+.et{
+    font-size: 10pt;
+
+}
+.yt{
+    font-size: 10pt;
+
+}
+.tr{
+    font-size: 10pt;
+
+}
+.wt{
+    font-size: 10pt;
+
+}
+.qt{
+    font-size: 10pt;
+
+}
+tr td{
+    width: 150pt;
+    font-size: 10pt;
+height: 20pt;
+color: #333333;
+}
+table{
+    margin-left: 140pt;
+margin-top: 15pt;
+
+}
+tr th{
+text-align: left;
+height: 20pt;
+font-weight: 500;
+
+}
